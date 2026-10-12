@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+publish/
+*.user
+
+*.exe
+*.zip
+ui-smoke.png
+.vs/
