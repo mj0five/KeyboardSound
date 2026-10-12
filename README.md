@@ -91,4 +91,4 @@ The [2026-09-26 validation report](docs/VALIDATION-2026-09-26.md) records the or
 
 ## Project identity and licensing
 
-Maintained by Jey as part of the Vega project family. This publication preserves the existing application and icon; the repository banner follows the Vega identity. Third-party licenses are retained. No additional license is assigned to the original application source in this publication.
+Maintained by Jey as part of the Vega project family. This publication preserves the existing application and icon; the repository banner follows the Vega identity. Third-party licenses are retained. The original application source is released under the [MIT License](LICENSE), copyright (c) 2026 Jey (mj0five). Third-party components retain their respective licenses; the optional Kenney sound pack retains its CC0 notices.
